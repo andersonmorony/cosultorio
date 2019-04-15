@@ -1,0 +1,9 @@
+#myTabContent ::-webkit-scrollbar{
+    background-color: #eee;
+ }
+
+#myTabContent  ::-webkit-scrollbar-thumb
+{
+    background-color: #2196f363;
+    border-radius: 50px;
+}
